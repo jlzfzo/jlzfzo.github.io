@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: black;
+	color: Red;
+	font-family: helvetica;
+}
+main {
+	padding: 1em;
+}
+h1 {
+	font-size: 80px;
+	padding-top: 3em;
+	margin: 0 0 1em 0;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+p {
+	margin: 0 0 1em 0;
+}
